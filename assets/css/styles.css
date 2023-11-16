@@ -869,6 +869,7 @@ body.dark-theme {
 @media screen and (max-width: 320px) {
   .nav__menu {
     padding: 1.3rem 1.5rem;
+    width: 500px;
   }
 
   .home__value {
@@ -931,6 +932,9 @@ body.dark-theme {
 
   .footer__content {
     grid-template-columns: repeat(3, 192px);
+  }
+  .contact__data{
+    margin: 10px;
   }
 }
 
